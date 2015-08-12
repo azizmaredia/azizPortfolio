@@ -30,22 +30,22 @@ h2 {
     display: block;
 }
 .facebook {
-    background: url('/img/socMedIcon.png') no-repeat -29px -29px;
+    background: url('../img/socMedIcon.png') no-repeat -29px -29px;
 }
 .googlePlus {
-    background: url('/img/socMedIcon.png') no-repeat -207px -29px;
+    background: url('../img/socMedIcon.png') no-repeat -207px -29px;
 }
 .linkedin {
-    background: url('/img/socMedIcon.png') no-repeat -326px -29px;
+    background: url('../img/socMedIcon.png') no-repeat -326px -29px;
 }
 .skype {
-    background: url('/img/socMedIcon.png') no-repeat -149px -149px;
+    background: url('../img/socMedIcon.png') no-repeat -149px -149px;
 }
 .twitter {
-    background: url('/img/socMedIcon.png') no-repeat -88px -29px;
+    background: url('../img/socMedIcon.png') no-repeat -88px -29px;
 }
 .github {
-    background: url('/img/socMedIcon.png') no-repeat -268px -149px;
+    background: url('../img/socMedIcon.png') no-repeat -268px -149px;
 }
 .sIcon {
     width: 50px;
@@ -91,7 +91,7 @@ h2 {
     height: auto;
 }
 .dance {
-    background: url('/img/animate1.png') repeat;
+    background: url('../img/animate1.png') repeat;
     background-position: 0 0;
     width: 75px;
     margin: auto;

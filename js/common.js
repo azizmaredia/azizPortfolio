@@ -33,12 +33,10 @@ $(document).ready(function () {
         highlight: function (element, errorClass) {
             $(element).css('border-color', 'red');
             $(element).parent().siblings().css('color', 'red');
-            console.log(errorClass);
         },
         unhighlight: function (element, errorClass, validClass) {
             $(element).css('border-color', 'inherit');
             $(element).parent().siblings().css('color', 'inherit');
-            console.log(validClass);
         },
 
         rules: {
